@@ -3,6 +3,7 @@ Dissertation project: AI and Machine Learning for Social Media Advocacy - Banyam
 
 **Author:** Meghana Kormangala Venkataswamy  
 **University:** University of Bradford | 2025 
+
 **Project-Type:** Industry-Based Dissertation
 
 This project explores how AI and Machine Learning analyze YouTube discussions about the Banyamulenge crisis (2010–2025), focusing on sentiment, emotions, topic trends, and misinformation.
